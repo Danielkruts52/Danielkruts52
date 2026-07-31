@@ -8,7 +8,7 @@ In my projects, I always try to add a new niche and the spirit of existentialism
 ### Contact 📞
 You can always contact me via this email address 📧 7danielwork7@gmail.com 
 
-I am also on <img width="80px" height="80px" alt="image" src="https://github.com/user-attachments/assets/66a518b9-ed74-4c3d-be7e-b2aa6d0c2993" />
+I am also on <img width="80px" color="white" height="80px" alt="image" src="https://github.com/user-attachments/assets/66a518b9-ed74-4c3d-be7e-b2aa6d0c2993" /> danil.filimonenko@yandex.ru
 
 
 
