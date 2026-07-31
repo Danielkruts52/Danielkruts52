@@ -6,8 +6,8 @@ I am a student 👨‍🎓 and try to combine my scientific activities 🔬 with
 In my projects, I always try to add a new niche and the spirit of existentialism 🖤.
 
 ### Contact 📞
-You can always contact me via this email address 📧 
-I am also on <span style="color:red;">Yandex mail</span>
+You can always contact me via this email address 📧 7danielwork7@gmail.com 
+I am also on <font style="color:red;">Yandex mail</font>
 
 ### Time 🌐
 I am in the Moscow time zone 🏰 🇷🇺 🌆
