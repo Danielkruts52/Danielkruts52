@@ -7,7 +7,9 @@ In my projects, I always try to add a new niche and the spirit of existentialism
 
 ### Contact 📞
 You can always contact me via this email address 📧 7danielwork7@gmail.com 
-I am also on Yandex mail <img width="80px" height="80px" alt="image" src="https://github.com/user-attachments/assets/32c6f95e-ed2b-4b00-986c-817b0b217885" />
+
+I am also on <img width="80px" height="80px" alt="image" src="https://github.com/user-attachments/assets/66a518b9-ed74-4c3d-be7e-b2aa6d0c2993" />
+
 
 
 ### Time 🌐
