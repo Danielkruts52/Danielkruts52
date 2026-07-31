@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 My name is Daniil Filimonenko
 
-<!--
-**Danielkruts52/Danielkruts52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻Web Developer
+I create web interfaces and full-fledged websites. 
+I am a student 👨‍🎓 and try to combine my scientific activities 🔬 with web development 👨‍💻. 
+In my projects, I always try to add a new niche and the spirit of existentialism 🖤.
 
-Here are some ideas to get you started:
+### Contact 📞
+You can always contact me via this email address 📧 
+I am also on <span style="color:red;">Yandex mail</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Time 🌐
+I am in the Moscow time zone 🏰 🇷🇺 🌆
+
