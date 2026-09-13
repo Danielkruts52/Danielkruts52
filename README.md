@@ -2,8 +2,11 @@
 
 ### 💻Web Developer
 I create web interfaces and full-fledged websites. 
+
 I am a student 👨‍🎓 and try to combine my scientific activities 🔬 with web development 👨‍💻. 
+
 In my projects, I always try to add a new niche and the spirit of existentialism 🖤.
+
 You can learn more about my work on my personal portfolio website. 🌐
 
 ### Contact 📞
