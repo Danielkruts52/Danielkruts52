@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Daniil Filimonenko
+## Hi there 👋 My name is Daniil 
 
 ### 💻Web Developer
 I create web interfaces and full-fledged websites. 
